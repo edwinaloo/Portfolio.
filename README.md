@@ -1,2 +1,0 @@
-# Portfolio.
-my work portfolio
